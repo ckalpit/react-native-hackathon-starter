@@ -1,0 +1,19 @@
+{
+  "name": "react-native-hackathon-starter",
+  "description": "react-native-hackathon-starter project consist of react native element ui toolkit demo",
+  "slug": "react-native-hackathon-starter",
+  "sdkVersion": "16.0.0",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "primaryColor": "#cccccc",
+  "icon": "https://s3.amazonaws.com/exp-icon-assets/ExpoEmptyManifest_192.png",
+  "loading": {
+    "icon": "https://s3.amazonaws.com/exp-icon-assets/ExpoEmptyManifest_192.png",
+    "hideExponentText": false
+  },
+  "packagerOpts": {
+    "assetExts": [
+      "ttf"
+    ]
+  }
+}
